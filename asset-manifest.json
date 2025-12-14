@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/GDNT-website/static/css/main.3935eabb.css",
+    "main.js": "/GDNT-website/static/js/main.4d3cb4df.js",
+    "static/media/hero-video.mp4": "/GDNT-website/static/media/hero-video.118f6d00bb62de38dbc3.mp4",
+    "static/media/about.jpg": "/GDNT-website/static/media/about.8ff2463baf0d1820a889.jpg",
+    "static/media/calbon.png": "/GDNT-website/static/media/calbon.f6a344fe6723d80eea9f.png",
+    "static/media/hungry.png": "/GDNT-website/static/media/hungry.860b3db42546e912e449.png",
+    "static/media/gasedraft.png": "/GDNT-website/static/media/gasedraft.e07c5485081f66f81e8d.png",
+    "static/media/gdmefp.png": "/GDNT-website/static/media/gdmefp.161945f113756dd64f63.png",
+    "static/media/gdcoldd.png": "/GDNT-website/static/media/gdcoldd.a306b086afd9d96d5efa.png",
+    "static/media/boncare.png": "/GDNT-website/static/media/boncare.80c8597f76eb19c1cbbc.png",
+    "static/media/ferrose.png": "/GDNT-website/static/media/ferrose.db8a8ca74b107fa72f67.png",
+    "static/media/acikind.png": "/GDNT-website/static/media/acikind.b5911fabf312f00f8b1d.png",
+    "static/media/contact.png": "/GDNT-website/static/media/contact.78c8cc38297e18851b00.png",
+    "static/media/gdflox-ms.png": "/GDNT-website/static/media/gdflox-ms.8f78b04c4cfdb0a4c137.png",
+    "static/media/gedozyme.png": "/GDNT-website/static/media/gedozyme.e7e20033fb51987eb10e.png",
+    "static/media/healthvit.png": "/GDNT-website/static/media/healthvit.78b46d3d031022cd2c7b.png",
+    "static/media/logo.png": "/GDNT-website/static/media/logo.434f8a30d268c4399995.png",
+    "static/media/asaira.png": "/GDNT-website/static/media/asaira.5ad2c0702ef160a8b06a.png",
+    "static/media/meglocid.png": "/GDNT-website/static/media/meglocid.6224705e863d3dddf422.png",
+    "static/media/diclo.png": "/GDNT-website/static/media/diclo.b1f7333898b3c38dd2a1.png",
+    "static/media/pankind.png": "/GDNT-website/static/media/pankind.b0fe826e3c82297f6a2e.png",
+    "static/media/gdcough-gd.jpg": "/GDNT-website/static/media/gdcough-gd.7099adddb2ba9bfd7fe6.jpg",
+    "static/media/gdcough-ls.png": "/GDNT-website/static/media/gdcough-ls.e5bd5007b3cc4f3ec2ad.png",
+    "static/media/montkand.png": "/GDNT-website/static/media/montkand.26bea0147be94c832034.png",
+    "static/media/gdcold-pds.png": "/GDNT-website/static/media/gdcold-pds.bee1541c96d0eee2e0a3.png",
+    "static/media/gdmole.png": "/GDNT-website/static/media/gdmole.92eceebc711833db9b52.png",
+    "static/media/lemontine.png": "/GDNT-website/static/media/lemontine.1675ed0b4224cf667dcf.png",
+    "static/media/levocits.png": "/GDNT-website/static/media/levocits.3e921399b5121055a010.png",
+    "static/media/gestroking.png": "/GDNT-website/static/media/gestroking.b7c4144b31ddd3b5c7dc.png",
+    "index.html": "/GDNT-website/index.html",
+    "main.3935eabb.css.map": "/GDNT-website/static/css/main.3935eabb.css.map",
+    "main.4d3cb4df.js.map": "/GDNT-website/static/js/main.4d3cb4df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3935eabb.css",
+    "static/js/main.4d3cb4df.js"
+  ]
+}
