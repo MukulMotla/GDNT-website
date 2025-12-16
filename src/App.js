@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Home from "./pages/Home";
@@ -10,16 +10,12 @@ import ProductDetails from "./pages/ProductDetails";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/GDNT-website">
       <div className="relative min-h-screen flex flex-col">
-        {/* NavBar */}
         <NavBar />
-        
-        {/* Message Box (optional) */}
         <MessageBox />
 
-        {/* Pages */}
-        <div className="flex-1 mt-20"> {/* mt-20 to offset fixed NavBar */}
+        <div className="flex-1 mt-20">
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/about" element={<About />} />
@@ -29,7 +25,6 @@ function App() {
           </Routes>
         </div>
 
-        {/* Footer */}
         <Footer />
       </div>
     </Router>

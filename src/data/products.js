@@ -517,32 +517,32 @@ export const products = [
   },
 },
 
-{
-  id: "itrocon-200",
-  name: "ITROCON-200 Capsule",
-  category: "Capsule",
-  price: "₹290",
-  stock: 40,
-  image: "/assets/itrocon-200.png",
-  shortDesc: "Antifungal medication.",
-  description:
-    "ITROCON-200 is used to treat fungal infections of the skin, nails, and internal organs with Itraconazole 200mg.",
-  specifications: {
-    drugType: "Allopathic",
-    dosageGuidelines: "As directed by physician",
-    suitableFor: "Adults",
-    physicalForm: "Capsule",
-    storageInstructions: "Store below 25°C away from moisture",
-    originOfMedicine: "India",
-    dosageForm: "Capsule",
-  },
-  tradeInformation: {
-    paymentTerms: "50% Advance",
-    supplyAbility: "50,000 Strips / Month",
-    deliveryTime: "4-7 Days",
-    mainDomesticMarket: "All India",
-  },
-},
+// {
+//   id: "itrocon-200",
+//   name: "ITROCON-200 Capsule",
+//   category: "Capsule",
+//   price: "₹290",
+//   stock: 40,
+//   image: "/assets/itrocon-200.png",
+//   shortDesc: "Antifungal medication.",
+//   description:
+//     "ITROCON-200 is used to treat fungal infections of the skin, nails, and internal organs with Itraconazole 200mg.",
+//   specifications: {
+//     drugType: "Allopathic",
+//     dosageGuidelines: "As directed by physician",
+//     suitableFor: "Adults",
+//     physicalForm: "Capsule",
+//     storageInstructions: "Store below 25°C away from moisture",
+//     originOfMedicine: "India",
+//     dosageForm: "Capsule",
+//   },
+//   tradeInformation: {
+//     paymentTerms: "50% Advance",
+//     supplyAbility: "50,000 Strips / Month",
+//     deliveryTime: "4-7 Days",
+//     mainDomesticMarket: "All India",
+//   },
+// },
  // ---------------- TABLETS ----------------
 {
   id: "diclokind-p",
