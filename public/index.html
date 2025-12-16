@@ -8,40 +8,70 @@
 
     <!-- Basic SEO -->
     <title>GDNT Medicare | Quality Healthcare & Pharmaceutical Products</title>
-    <meta name="description" content="GDNT Medicare provides high-quality pharmaceutical products, healthcare solutions, and professional medical services." />
-    <meta name="keywords" content="GDNT, Medicare, medicine, pharmaceutical, healthcare, medical products, pharma company" />
+    <meta
+      name="description"
+      content="GDNT Medicare provides high-quality pharmaceutical products, healthcare solutions, and professional medical services."
+    />
+    <meta
+      name="keywords"
+      content="GDNT, Medicare, medicine, pharmaceutical, healthcare, medical products, pharma company"
+    />
 
     <!-- Mobile Responsive -->
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <!-- Brand Color for Mobile Browsers -->
-    <meta name="theme-color" content="#000000" />
-
-    <!-- Copyright Verification -->
-    <meta name="copyrighted-site-verification" content="c5ab4b21e5ce9aa7" />
+    <!-- Brand Color -->
+    <meta name="theme-color" content="#0f766e" />
 
     <!-- Apple Icon -->
     <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
 
-    <!-- Open Graph (SEO for Facebook, LinkedIn) -->
+    <!-- Open Graph -->
     <meta property="og:title" content="GDNT Medicare" />
-    <meta property="og:description" content="Premium pharmaceutical and healthcare products by GDNT Medicare." />
+    <meta
+      property="og:description"
+      content="Premium pharmaceutical and healthcare products by GDNT Medicare."
+    />
     <meta property="og:image" content="%PUBLIC_URL%/logo.png" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://yourwebsite.com" />
+    <meta property="og:url" content="https://gdntmedicare.netlify.app" />
 
-    <!-- Twitter Card (SEO for Twitter/X) -->
+    <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="GDNT Medicare" />
-    <meta name="twitter:description" content="Premium pharmaceutical and healthcare products." />
+    <meta
+      name="twitter:description"
+      content="Premium pharmaceutical and healthcare products."
+    />
     <meta name="twitter:image" content="%PUBLIC_URL%/logo.png" />
-
-    <!-- PWA Manifest (optional) -->
-    <!-- <link rel="manifest" href="%PUBLIC_URL%/manifest.json" /> -->
   </head>
 
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
-    <div id="root"></div>
+
+    <!-- ✅ LOADING SCREEN (prevents blank page) -->
+    <div id="root">
+      <div
+        style="
+          height: 100vh;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          font-family: Arial, Helvetica, sans-serif;
+          background: #ffffff;
+          color: #0f766e;
+        "
+      >
+        <img
+          src="%PUBLIC_URL%/logo.png"
+          alt="GDNT Medicare"
+          style="width: 80px; margin-bottom: 16px"
+        />
+        <p style="font-size: 18px; font-weight: 500">
+          Loading GDNT Medicare...
+        </p>
+      </div>
+    </div>
   </body>
 </html>
