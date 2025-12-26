@@ -4,13 +4,13 @@ import { Link } from "react-router-dom";
 
 const HomeFeaturedProduct = ({ product }) => {
   return (
-    <div className="bg-white rounded-lg shadow-md overflow-hidden flex flex-col">
+    <div className="bg-white border rounded-lg shadow hover:shadow-lg transition flex flex-col overflow-hidden">
       {/* Product Image */}
- <div className="w-full flex justify-center items-center bg-white rounded shadow p-4">
+ <div className="w-full h-64 flex justify-center items-center bg-white p-4">
   <img
     src={product.image || "/placeholder.png"}
     alt={product.name}
-    className="w-full max-w-[500px] h-auto object-contain"
+    className="max-h-full max-w-full object-contain"
   />
 </div>
 
