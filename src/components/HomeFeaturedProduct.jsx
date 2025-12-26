@@ -24,7 +24,7 @@ const HomeFeaturedProduct = ({ product }) => {
 
         <div className="flex flex-wrap gap-2 mt-2">
           <span className="px-2 py-1 bg-green-600 text-white rounded-full text-xs">
-            Price: ${product.price}
+            M.R.P : {product.price}
           </span>
           <span className="px-2 py-1 bg-gray-200 text-gray-800 rounded-full text-xs">
             Stock: {product.stock}
