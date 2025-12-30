@@ -378,7 +378,6 @@ export const products = [
     mainDomesticMarket: "All India",
   },
 },
-
 {
   id: "gdcold-drops",
   name: "GDCOLD Drops",

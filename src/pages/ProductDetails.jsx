@@ -45,7 +45,7 @@ const ProductDetails = () => {
         {/* Price & Stock */}
         <div className="flex gap-4 mt-2">
           <span className="px-3 py-1 bg-green-600 text-white rounded-full">
-            Price: ₹{product.price}
+            M.R.P : {product.price}
           </span>
           <span className="px-3 py-1 bg-gray-200 text-gray-800 rounded-full">
             Stock: {product.stock}
