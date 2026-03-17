@@ -100,7 +100,7 @@ const Footer = () => {
 
       {/* --- COPYRIGHT --- */}
       <div className="text-center text-gray-200 text-sm mt-6 border-t border-gray-300/30 pt-4">
-        © {new Date().getFullYear()} belahiri tech (M.M). — All Rights Reserved.
+        © {new Date().getFullYear()} Belahiri Tech (Mukul). — All Rights Reserved.
       </div>
     </footer>
   );
